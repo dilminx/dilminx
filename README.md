@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Dilmin</h1>
-<h3 align="center">A passionate Software Developer from Srilanka</h3>
+<h3 align="center">A Creative Software Developer from Srilanka</h3>
 
 <img align="right" alt="cooding gif" width="400" src="https://media1.giphy.com/media/dWesBcTLavkZuG35MI/source.gif">
 
