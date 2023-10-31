@@ -25,4 +25,4 @@
 <img align="right" alt="cooding gif" width="400" src="https://media.giphy.com/media/uH7JvseKVMojS/giphy.gif">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilminx&show_icons=true&locale=en&layout=compact" alt="dilminx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilminx&" alt="dilminx" /></p>
+
