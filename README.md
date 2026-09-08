@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/pasindu-dilmin-6b728927b" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/pasindu.minipura" target="_blank">
+  <a href="https://fb.com/pasi.dilmin/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/pasindu_dilzz" target="_blank">
